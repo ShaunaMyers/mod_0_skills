@@ -1,0 +1,20 @@
+
+## Program Specific Challenge
+
+   - `var famousPerson = "Demi Moore";`
+
+   - `var isActive = false;`
+
+   - `famousPerson = 'Clark Gable';`
+
+   - `var num3 = 4;`
+
+   - `var num9 = 10;`
+
+   - `var sum = num3 + num9;`
+
+   - `var animals = ['giraffe', 'camel', 'elephant'];`
+
+   - `animals.shift();`
+
+   - `console.log(famousPerson.length);`
