@@ -1,6 +1,6 @@
 ## Class: Course
 
-### Attributes
+### Attributes   
 
    - fullName (string)
    - description (string)
